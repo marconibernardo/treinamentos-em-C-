@@ -1,2 +1,2 @@
-# treinamentos-em-C-
+# treinamentos-em-C++
 c++ exercicios
